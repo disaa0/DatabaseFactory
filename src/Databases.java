@@ -1,4 +1,4 @@
-public class Main {
+public class Databases {
     public static void main(String[] args) {
         // Set the connection parameters for the database
         String database = "test";
